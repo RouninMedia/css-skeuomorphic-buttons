@@ -5,4 +5,4 @@ For those of us who miss skeuomorphic UI, here is a work-in-progress project to 
 
 To see a working example of the **CSS Skeuomorphic Button**, visit:
 
- - <a href="https://htmlpreview.github.io/?https://github.com/RouninMedia/quadTap/blob/master/all-in-one-quadtap.html" title="quadTap" target="_blank">CSS Skeuomorphic Button</a>
+ - <a href="https://htmlpreview.github.io/?https://github.com/RouninMedia/css-skeuomorphic-buttons/blob/master/all-in-one-css-skeuomorphic-button.html" title="CSS Skeuomorphic Button" target="_blank">CSS Skeuomorphic Button</a>
